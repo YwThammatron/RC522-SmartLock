@@ -1,0 +1,14 @@
+../Core/Src/main.c:169:6:getKey	16	static
+../Core/Src/main.c:193:13:is_uid_allowed	24	static
+../Core/Src/main.c:200:6:led_show_result	16	static
+../Core/Src/main.c:213:6:uart_print	16	static
+../Core/Src/main.c:222:6:Servo_Open	16	static
+../Core/Src/main.c:231:6:Servo_Close	16	static
+../Core/Src/main.c:240:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/main.c:274:6:pwdEnter	56	static
+../Core/Src/main.c:285:6:LCD_MULT	24	static
+../Core/Src/main.c:326:5:main	184	static
+../Core/Src/main.c:641:6:SystemClock_Config	88	static
+../Core/Src/main.c:692:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:713:6:MPU_Config	24	static
+../Core/Src/main.c:744:6:Error_Handler	4	static,ignoring_inline_asm
